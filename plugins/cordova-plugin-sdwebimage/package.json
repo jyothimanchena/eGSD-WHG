@@ -1,0 +1,81 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "cordova-plugin-sdwebimage",
+        "scope": null,
+        "escapedName": "cordova-plugin-sdwebimage",
+        "name": "cordova-plugin-sdwebimage",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "C:\\Users\\Admin\\Desktop\\Wyndham_App\\eGSD-WHG\\node_modules"
+    ]
+  ],
+  "_from": "cordova-plugin-sdwebimage@latest",
+  "_id": "cordova-plugin-sdwebimage@1.0.0",
+  "_inCache": true,
+  "_location": "/cordova-plugin-sdwebimage",
+  "_nodeVersion": "0.12.7",
+  "_npmUser": {
+    "name": "revolunet",
+    "email": "julien@revolunet.com"
+  },
+  "_npmVersion": "2.11.3",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "cordova-plugin-sdwebimage",
+    "scope": null,
+    "escapedName": "cordova-plugin-sdwebimage",
+    "name": "cordova-plugin-sdwebimage",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/cordova-plugin-sdwebimage/-/cordova-plugin-sdwebimage-1.0.0.tgz",
+  "_shasum": "9b84a410e639604cdb19955880a960cb8614e863",
+  "_shrinkwrap": null,
+  "_spec": "cordova-plugin-sdwebimage",
+  "_where": "C:\\Users\\Admin\\Desktop\\Wyndham_App\\eGSD-WHG\\node_modules",
+  "author": {
+    "name": "Julien Bouquillon",
+    "email": "julien.bouquillon@synchronized.tv"
+  },
+  "bugs": {
+    "url": "https://github.com/revolunet/cordova-plugin-sdwebimage/issues"
+  },
+  "dependencies": {},
+  "description": "Optimise image loading in your cordova app",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "9b84a410e639604cdb19955880a960cb8614e863",
+    "tarball": "https://registry.npmjs.org/cordova-plugin-sdwebimage/-/cordova-plugin-sdwebimage-1.0.0.tgz"
+  },
+  "gitHead": "13209c8421d58d9bcf20fc9c263276e9eb715f7a",
+  "homepage": "https://github.com/revolunet/cordova-plugin-sdwebimage#readme",
+  "license": "MIT",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "name": "revolunet",
+      "email": "julien@revolunet.com"
+    }
+  ],
+  "name": "cordova-plugin-sdwebimage",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/revolunet/cordova-plugin-sdwebimage.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0"
+}

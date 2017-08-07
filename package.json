@@ -1,0 +1,50 @@
+{
+    "name": "com.egsd_whg.egsd",
+    "displayName": "eGSD-WHG",
+    "version": "1.0.0",
+    "description": "A sample Apache Cordova application that responds to the deviceready event.",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Apache Cordova Team",
+    "license": "Apache-2.0",
+    "dependencies": {
+        "branch-cordova-sdk": "^2.6.6",
+        "cordova-android": "^6.2.3",
+        "cordova-plugin-compat": "^1.0.0",
+        "cordova-plugin-device": "^1.1.6",
+        "cordova-plugin-file": "^4.3.3",
+        "cordova-plugin-file-transfer": "^1.6.3",
+        "cordova-plugin-geolocation": "^2.4.3",
+        "cordova-plugin-inappbrowser": "^1.7.1",
+        "cordova-plugin-network-information": "^1.3.3",
+        "cordova-plugin-sdwebimage": "^1.0.0",
+        "cordova-plugin-whitelist": "^1.3.2",
+        "cordova-plugin-x-socialsharing": "^5.1.8",
+        "cordova.plugins.diagnostic": "^3.6.6",
+        "es6-promise-plugin": "^4.1.0"
+    },
+    "cordova": {
+        "plugins": {
+            "cordova-plugin-whitelist": {},
+            "cordova-plugin-geolocation": {},
+            "cordova-plugin-inappbrowser": {},
+            "cordova-plugin-network-information": {},
+            "cordova-plugin-x-socialsharing": {},
+            "cordova.plugins.diagnostic": {},
+            "cordova-plugin-compat": {},
+            "cordova-plugin-device": {},
+            "cordova-plugin-file": {},
+            "cordova-plugin-file-transfer": {},
+            "cordova-plugin-sdwebimage": {},
+            "branch-cordova-sdk": {
+                "BRANCH_KEY": "key_live_gcvqXCr6xFPow2LCtXn3LjpkxsnvdUC9",
+                "URI_SCHEME": "eGSD-WHG"
+            }
+        },
+        "platforms": [
+            "android"
+        ]
+    }
+}

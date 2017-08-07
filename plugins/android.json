@@ -1,0 +1,49 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "com.eGSD_WHG.eGSD"
+        },
+        "cordova-plugin-geolocation": {
+            "PACKAGE_NAME": "com.eGSD_WHG.eGSD"
+        },
+        "cordova-plugin-inappbrowser": {
+            "PACKAGE_NAME": "com.eGSD_WHG.eGSD"
+        },
+        "cordova-plugin-network-information": {
+            "PACKAGE_NAME": "com.eGSD_WHG.eGSD"
+        },
+        "cordova-plugin-x-socialsharing": {
+            "PACKAGE_NAME": "com.eGSD_WHG.eGSD"
+        },
+        "cordova.plugins.diagnostic": {
+            "PACKAGE_NAME": "com.eGSD_WHG.eGSD"
+        },
+        "cordova-plugin-compat": {
+            "PACKAGE_NAME": "com.eGSD_WHG.eGSD"
+        },
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "com.eGSD_WHG.eGSD"
+        },
+        "cordova-plugin-file": {
+            "PACKAGE_NAME": "com.eGSD_WHG.eGSD"
+        },
+        "cordova-plugin-file-transfer": {
+            "PACKAGE_NAME": "com.eGSD_WHG.eGSD"
+        },
+        "branch-cordova-sdk": {
+            "PACKAGE_NAME": "com.eGSD_WHG.eGSD"
+        }
+    },
+    "dependent_plugins": {
+        "es6-promise-plugin": {
+            "PACKAGE_NAME": "com.eGSD_WHG.eGSD"
+        }
+    }
+}
